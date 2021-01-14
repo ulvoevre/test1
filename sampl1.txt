@@ -1,3 +1,5 @@
 1. This is sample text file.
 
 2. Second time, I change this file.
+
+3. This file is a new file in "test1" branch.
